@@ -1,0 +1,66 @@
+.left{
+  margin-top: 50rpx;
+  background-color: cadetblue;
+  border-radius: 30rpx;
+  height: 80rpx;
+}
+.right{
+  margin-top: 50rpx;
+  background-color: cadetblue;
+  border-radius: 30rpx;
+  height: 80rpx;
+}
+.up{
+  margin-top: 500rpx;
+  background-color: cadetblue;
+  border-radius: 30rpx;
+  height: 80rpx;
+}
+.down{
+  margin-top: 150rpx;
+  background-color: cadetblue;
+  border-radius: 30rpx;
+  height: 80rpx;
+}
+.page{
+  position: fixed;
+  z-index: 99;
+}
+view input {
+  width: 75vw;
+  height: 80rpx;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+.string {
+  float: left;
+}
+.login{
+  background-color: deepskyblue;
+  height: 100rpx;
+  border-radius: 5px;
+}
+.send{
+  border-radius: 30px;
+  width: 30rpx;
+  height: 80rpx;
+  background-color:mediumseagreen;
+  color:black;
+  margin-bottom: 4rpx;
+}
+.methods{
+  border-radius: 30px;
+  width: 20%;
+  height: 80rpx;
+  background-color:gold;
+  color:gray;
+  float: left;
+}
+.sound{
+  border-radius: 30px;
+  width: 20%;
+  height: 80rpx;
+  background-color:pink;
+  color:steelblue;
+  float: left;
+}
